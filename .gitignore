@@ -1,0 +1,8 @@
+/.nb-gradle/
+/build/.gradle/
+gradle.bat
+build/
+.gradle/
+gradle/
+gradle.bat
+gradlew.bat
